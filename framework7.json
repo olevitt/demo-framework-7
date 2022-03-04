@@ -1,0 +1,26 @@
+{
+  "cwd": "/home/gon/Desktop/projets/demo7",
+  "type": [
+    "pwa",
+    "capacitor"
+  ],
+  "name": "Demo",
+  "framework": "react",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "pkg": "fr.levitt.demo",
+  "capacitor": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
